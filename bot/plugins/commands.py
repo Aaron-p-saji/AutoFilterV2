@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/mmaniaRequest"
+                                    'Support Group', url="https://t.me/mmaniaRequest"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/mmaniaRequest"
+                                    'Support Group', url="https://t.me/mmaniaRequest"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Support group', url="https://t.me/mmaniaRequest"
+                                    'Support Group', url="https://t.me/mmaniaRequest"
                                 )
                         ]
                     ]
