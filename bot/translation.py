@@ -4,21 +4,21 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {} How Are You 🔥!!</b>
+    START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-You Cannot Add Me To Your Group🔥🔥😝
+You Cannot Add Me To Your group
 
 For More Details Click Help Button Below..
-@Achuz_z2004
+@mallumovie_grp
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Just Join Our Group And You Can Find Out the Desired Movies
+-> If You Didn't Find The Movie You Can Request it here @mmaniaRequest
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -43,16 +43,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@Achuz_z2004
+@mallumovie_grp
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Main Request Grp </b> : <b><i><a href="https://t.me/mallumovie_grp">Movie Request Mallu</a></i></b>
+<b>➥ Main Group </b> : <b><i><a href="https://t.me/mallumovie_grp">Movie Mania</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Owner </b> : <i><a href="@Achuz_z2004">Click Me</a></i>
+<b>➥ OWNER </b> : <i><a href="https://t.me/Achuz_z2004">Click Me</a></i>
 """
